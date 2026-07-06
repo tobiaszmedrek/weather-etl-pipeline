@@ -1,0 +1,14 @@
+# Klucze i sekrety (KRYTYCZNE)
+gcp-credentials.json
+.env
+*.pem
+
+# Środowisko wirtualne Python
+venv/
+env/
+.venv/
+
+# Cache i pliki tymczasowe Pythona
+__pycache__/
+*.py[cod]
+*$py.class
