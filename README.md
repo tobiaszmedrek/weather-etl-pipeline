@@ -37,6 +37,3 @@ Automatyczny proces ETL (Extract, Transform, Load) pobierający dane pogodowe z 
    ```
 
 ---
-
-## 👨‍💻 O autorze
-**Tobiasz Mędrek** Student Ekonomii na Uniwersytecie Warszawskim oraz aktywny członek Koła Naukowego Finansów Obliczeniowych (MIMUW). Projekt zrealizowany w celu optymalizacji przepływu danych i rozwijania kompetencji z obszaru Data Engineeringu (Python, Pandas, SQL).
